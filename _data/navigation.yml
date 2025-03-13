@@ -6,7 +6,7 @@
 
 main:
   - title: "FSAE"
-    url: /publications/
+    url: /fsae/
 
   - title: "Talks"
     url: /talks/    
