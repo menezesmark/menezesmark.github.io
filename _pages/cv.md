@@ -37,7 +37,7 @@ Dedicated and results-driven mechanical engineering student with a strong focus 
 * Optimization
 * Control theory
 
-Proven abiligy to aid research intiatives, independently create designs, and collaborate on multidisciplinary projects.
+Proven ability to aid research intiatives, independently create designs, and collaborate on multidisciplinary projects.
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
