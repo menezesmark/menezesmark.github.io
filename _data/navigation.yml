@@ -8,8 +8,8 @@ main:
   - title: "FSAE"
     url: /fsae/
 
-  #- title: "Talks"
-   # url: /talks/    
+  - title: "RAD Lab"
+    url: /rad/    
 
   #- title: "Teaching"
    # url: /teaching/    
