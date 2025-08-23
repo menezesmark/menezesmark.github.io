@@ -33,7 +33,7 @@ Calculus I, II, III; Differential Equations; Statics; Thermodynamics; Fluid Mech
 ## Professional Summary
 Dedicated and results-driven mechanical engineering student with a strong focus on 3D design and controls, particularly interested in:
 
-* Vecicle dynamics
+* Vehicle dynamics
 * 3D printing/additive manufacturing
 * Optimization
 * Control theory
