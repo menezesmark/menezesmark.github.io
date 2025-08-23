@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 # Mark Menezes
-
 **College Station, TX 77845**
 
 [LinkedIn](https://www.linkedin.com/in/menezes-mark) | [Email](mailto:menezes.mark@gmail.com) | (512) 920-7446
