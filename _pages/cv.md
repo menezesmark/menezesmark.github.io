@@ -38,16 +38,6 @@ Dedicated and results-driven mechanical engineering student with a strong focus 
 * Control theory
 
 Proven ability to aid research intiatives, independently create designs, and collaborate on multidisciplinary projects.
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Activities & Projects
 ======
