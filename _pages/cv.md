@@ -49,13 +49,10 @@ Proven ability to aid research intiatives, independently create designs, and col
 * 2+ years of progressively challenging experiences on multiple subteams (Chassis, Suspension, Aerodynamics)
 * Designed, manufactured, assembled, and raced an electric formula-style vehicle within a one year cycle
 * Designed a full-size and functional driver model to optimize ergonomics and aerodynamics
-* Led end-to-end design and fabrication of a custom Pro-Ackermann steering system, optimizing lateral force and
-handling characteristics while minimizing tire scrub
-* Developed a algorithm to convert designs from the simulation software (Optimum Kinematics) to the modeling
-software (Solidworks), removing human error and saving significant time
+* Led end-to-end design and fabrication of a custom Pro-Ackermann steering system, optimizing lateral force and handling characteristics while minimizing tire scrub
+* Developed a algorithm to convert designs from the simulation software (Optimum Kinematics) to the modeling software (Solidworks), removing human error and saving significant time
 * Created a full-size and functional driver model optimizing ergonomics/aerodynamics, ensuring rules compliance
-* Mapped the vehicle rollover envelope to enable the first fully rules compliant vehicle in the history of the program
-and maximize safety
+* Mapped the vehicle rollover envelope to enable the first fully rules compliant vehicle in the history of the program and maximize safety
 
 **Student Engineers Council** | *February 2024 - Present*
 * Organized and planned events for College of Engineering Students
