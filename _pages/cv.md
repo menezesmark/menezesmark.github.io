@@ -22,6 +22,7 @@ Download CV (Up to date as of DD-MM-YYYY)
 ## Education
 **Texas A&M University | College Station, TX**
 *BSc. Mechanical Engineering, Materials Science and Mathematics Minor*
+
 **Graduation:** May 2027
 
 **Relavant Coursework:**
