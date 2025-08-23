@@ -43,12 +43,16 @@ Activities & Projects
 ======
 **Texas A&M Formula Electric Racing** | *September 2023 - Present*
 
-* Simulated, designed, and manufactured a custom Pro-Ackermann steering system, optimizing lateral force and handling charateristics while minimizing tire scrub
-* Developed functions to export, read, and convert simulation files to Solidworks, saving hours of manually updating individiaul suspension points
+* 2+ years of progressively challenging experiences on multiple subteams (Chassis, Suspension, Aerodynamics)
+* Designed, manufactured, assembled, and raced an electric formula-style vehicle within a one year cycle
 * Designed a full-size and functional driver model to optimize ergonomics and aerodynamics
-* Mapped hte vechicle rollover envelope to enable the first fully rules compliant vehicle in the history of the program and maximize safety
-* Designed and manufactured custom mounting tabs to integrate electronics and aerodynamic components with the chassis
-
+* Led end-to-end design and fabrication of a custom Pro-Ackermann steering system, optimizing lateral force and
+handling characteristics while minimizing tire scrub
+* Developed a algorithm to convert designs from the simulation software (Optimum Kinematics) to the modeling
+software (Solidworks), removing human error and saving significant time
+* Created a full-size and functional driver model optimizing ergonomics/aerodynamics, ensuring rules compliance
+* Mapped the vehicle rollover envelope to enable the first fully rules compliant vehicle in the history of the program
+and maximize safety
 
 **Student Engineers Council** | *February 2024 - Present*
 * Organized and planned events for College of Engineering Students
@@ -59,6 +63,8 @@ Technical Skills
 ======
 **Software:** Solidworks, Optimum Kinematics, Multisim, Prusa Slicer, Onshape, Autodesk Inventor, Python, Microsoft Office, Github
 
+**Manufacturing:** 3D Printing, Mill, Lathe, CNC
+
 **Languages:** English (fluent), Spanish (conversational), Portugese (conversational)
 
-**Clearances:** Controled Unclassified Information
+**Clearances:** US Citizen, Controled Unclassified Information (CUI)
