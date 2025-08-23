@@ -21,12 +21,12 @@ Download CV (Up to date as of DD-MM-YYYY)
   
 Education
 ======
-**Texas A&M University | COllege Station, TX**
+**Texas A&M University | College Station, TX**
 BSc. Mechanical Engineering, Materials Science and Mathematics Minor
 **Graduation:** May 2027
 
 **Relavant Coursework:**
-ADD COURSES
+Calculus I, II, III; Differential Equations; Statics; Thermodynamics; Fluid Mechanics; Circuits
 
 Professional Summary
 ======
@@ -53,14 +53,12 @@ Activities & Projects
 **Student Engineers Council** | *February 2024 - Present*
 * Organized and planned events for College of Engineering Students
 * Hosted multiple company speak series for more than 500 students
-*Coordinated College of Engineering department information sessions for Freshman
-
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Coordinated College of Engineering department information sessions for Freshman
   
 Technical Skills
 ======
-**Software:** Solidworks, Optimum Kinematics, Multisim, Prusa Slicer, ONshape, Autodesk Inventor, Python, Microsoft Office, Github
+**Software:** Solidworks, Optimum Kinematics, Multisim, Prusa Slicer, Onshape, Autodesk Inventor, Python, Microsoft Office, Github
+
 **Languages:** English (fluent), Spanish (conversational), Portugese (conversational)
+
 **Clearances:** Controled Unclassified Information
