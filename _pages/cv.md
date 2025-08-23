@@ -15,7 +15,7 @@ redirect_from:
 ---
 
 ## Download My CV
-Download CV (Up to date as of DD-MM-YYYY)
+[Download CV](Mark_Menezes_Resume.pdf)
 
 ---
   
