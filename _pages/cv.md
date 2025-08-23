@@ -9,27 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Mark Menezes
-======
-**College Station, TX 77845**
-LinkedIn | Email | (512) 920-7446
-  
+# Mark Menezes
 
-Download My CV
-======
-Download CV (Up to date as of DD-MM-YYYY)
+**College Station, TX 77845**
+
+[LinkedIn](https://www.linkedin.com/in/menezes-mark) | [Email](mailto:menezes.mark@gmail.com) | (512) 920-7446
   
-Education
-======
+---
+
+## Download My CV
+Download CV (Up to date as of DD-MM-YYYY)
+
+---
+  
+## Education
 **Texas A&M University | College Station, TX**
-BSc. Mechanical Engineering, Materials Science and Mathematics Minor
+*BSc. Mechanical Engineering, Materials Science and Mathematics Minor*
 **Graduation:** May 2027
 
 **Relavant Coursework:**
 Calculus I, II, III; Differential Equations; Statics; Thermodynamics; Fluid Mechanics; Circuits
 
-Professional Summary
-======
+---
+
+## Professional Summary
 Dedicated and results-driven mechanical engineering student with a strong focus on 3D design and controls, particularly interested in:
 
 * Vecicle dynamics
@@ -38,9 +41,10 @@ Dedicated and results-driven mechanical engineering student with a strong focus 
 * Control theory
 
 Proven ability to aid research intiatives, independently create designs, and collaborate on multidisciplinary projects.
-  
-Activities & Projects
-======
+
+---
+
+## Activities & Projects
 **Texas A&M Formula Electric Racing** | *September 2023 - Present*
 
 * 2+ years of progressively challenging experiences on multiple subteams (Chassis, Suspension, Aerodynamics)
@@ -58,9 +62,10 @@ and maximize safety
 * Organized and planned events for College of Engineering Students
 * Hosted multiple company speak series for more than 500 students
 * Coordinated College of Engineering department information sessions for Freshman
-  
-Technical Skills
-======
+
+---
+
+## Technical Skills
 **Software:** Solidworks, Optimum Kinematics, Multisim, Prusa Slicer, Onshape, Autodesk Inventor, Python, Microsoft Office, Github
 
 **Manufacturing:** 3D Printing, Mill, Lathe, CNC
@@ -68,3 +73,5 @@ Technical Skills
 **Languages:** English (fluent), Spanish (conversational), Portugese (conversational)
 
 **Clearances:** US Citizen, Controled Unclassified Information (CUI)
+
+---
