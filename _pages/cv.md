@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 # Mark Menezes
 **College Station, TX 77845**
 
