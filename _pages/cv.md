@@ -49,6 +49,13 @@ Proven ability to aid research intiatives, independently create designs, and col
 * Led development and manufacturing of an enclosure to test custom motor controllers with an absolute rotary encoder, achieving perfect concentricity and z-height
 * Produced a scale and functional model of the 3-DOF robotic arm to organize internall wire harnessing and determine assmbly procedures
 
+
+*Space Modular Manupulator Group  -  Summer 2024*
+
+* Co-designed robotic actuators for a 7-DOF robotifc arm, reducing mass and improving harmonic drive efficiency in collaboration with NASA engineers
+* Developed a wire harness fatigue testebed, simulating a space environment, vacuum, and heating/cooling, for life-cycle validation over 1 million cycles
+* Created engineering calculators in Visual Basic to determine the minimum bolt sizes for dynamic fictured, enhancing safety and precision in structural design
+
 ---
 
 ## Activities & Projects
