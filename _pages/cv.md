@@ -23,14 +23,11 @@ redirect_from:
 **Texas A&M University | College Station, TX**
 *BSc. Mechanical Engineering, Materials Science and Mathematics Minor*
 
-**Graduation:** May 2027
+**Graduation:** Spring 2027
 
 **Relavant Coursework:**
 Calculus I, II, III; Differential Equations; Statics; Thermodynamics; Fluid Mechanics; Circuits
 
----
-
-## Professional Summary
 Dedicated and results-driven mechanical engineering student with a strong focus on 3D design and controls, particularly interested in:
 
 * Vehicle dynamics
@@ -39,6 +36,18 @@ Dedicated and results-driven mechanical engineering student with a strong focus 
 * Control theory
 
 Proven ability to aid research intiatives, independently create designs, and collaborate on multidisciplinary projects.
+
+---
+
+## Experience
+**Robotics Automation and Design (RAD) Lab**
+
+*Manupulator Group  -  Summer 2025*
+
+* Designed, manufactured, and tested a modular parasitic torque testbed to measure resistance created by external cable harnesses on a robotic arm for Low-Earth-Orbit (LEO)
+* Modeled 3D printing compatible components to make them DFM/DFA fariendly
+* Led development and manufacturing of an enclosure to test custom motor controllers with an absolute rotary encoder, achieving perfect concentricity and z-height
+* Produced a scale and functional model of the 3-DOF robotic arm to organize internall wire harnessing and determine assmbly procedures
 
 ---
 
