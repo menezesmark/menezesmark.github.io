@@ -28,15 +28,6 @@ redirect_from:
 **Relavant Coursework:**
 Calculus I, II, III; Differential Equations; Statics; Thermodynamics; Fluid Mechanics; Circuits
 
-Dedicated and results-driven mechanical engineering student with a strong focus on 3D design and controls, particularly interested in:
-
-* Vehicle dynamics
-* 3D printing/additive manufacturing
-* Optimization
-* Control theory
-
-Proven ability to aid research intiatives, independently create designs, and collaborate on multidisciplinary projects.
-
 ---
 
 ## Experience
@@ -55,6 +46,15 @@ Proven ability to aid research intiatives, independently create designs, and col
 * Co-designed robotic actuators for a 7-DOF robotifc arm, reducing mass and improving harmonic drive efficiency in collaboration with NASA engineers
 * Developed a wire harness fatigue testebed, simulating a space environment, vacuum, and heating/cooling, for life-cycle validation over 1 million cycles
 * Created engineering calculators in Visual Basic to determine the minimum bolt sizes for dynamic fictured, enhancing safety and precision in structural design
+
+
+**Beekeeper**
+
+*Great Hills Honey Company  -  March 2018 - August 2023*
+
+* Used integrated pest management techniques to control Varroa Mite infestation in hives
+* Implemented weight and temperature sensors to monitor hive healt remotely, preventing colony collapse
+* Engineered solution to increase honey extraction efficieny with applied heaters to reduce honey viscosity, two stage filtering to reduce clogging, and mounts to reduce extractor vibrations
 
 ---
 
