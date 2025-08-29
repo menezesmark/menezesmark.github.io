@@ -11,8 +11,8 @@ main:
   - title: "Research"
     url: /rad/    
 
-  #- title: "Teaching"
-   # url: /teaching/    
+  - title: "Personal Projects"
+    url: /proj/    
     
   #- title: "Portfolio"
    # url: /portfolio/
