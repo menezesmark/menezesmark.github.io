@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Sophomore at Texas A&M University pursuing a BSc. in Mechanical Engineering with a minors in Materials Science and Mathematics. My passion lies in robotics and vehicle dynamics. I have contributed to groundbreaking research in the mechanical design of space-rated robotic actuators. I am also a engineer on the electric racing team where I am currently designing and manufacturing the steering system of the 2025 competition vehicle.
+I am a Junior at Texas A&M University pursuing a BSc. in Mechanical Engineering with a minors in Materials Science and Mathematics. My passion lies in robotics and vehicle dynamics. I have contributed to groundbreaking research in the mechanical design of space-rated robotic actuators. I am also a engineer on the electric racing team where I am currently designing chassis of the 2026 competition vehicle.
 
 ---
 ## Research Interests
