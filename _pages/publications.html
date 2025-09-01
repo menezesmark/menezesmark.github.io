@@ -58,28 +58,13 @@ aerodynamic simulations.
   model-viewer {
     width: 600px;
     height: 400px;
-    background: #f0f0f0; /* light gray background */
+    background: #1a1a1a;
     border-radius: 8px;
   }
 </style>
 
-<model-viewer id="mv"
-              src="/files/C_20036_V01_Driver_A_Compressed.glb"
+<model-viewer src="/files/C_20036_V01_Driver_A_Compressed"
               alt="3D driver model"
               camera-controls
               auto-rotate>
 </model-viewer>
-
-<script type="module">
-  const mv = document.querySelector('#mv');
-
-  mv.addEventListener('load', () => {
-    const mats = mv.model?.materials || [];
-    // Maroon (#800000) = rgb(128, 0, 0) → normalized
-    const maroon = [128/255, 0, 0, 1.0];
-
-    for (const mat of mats) {
-      mat.pbrMetallicRoughness.setBaseColorFactor(maroon);
-    }
-  });
-</script>
