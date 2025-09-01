@@ -54,10 +54,16 @@ aerodynamic simulations.
 <!-- Import model-viewer -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-<model-viewer src="/files/c_20036_v01_driver_a_f.glb" 
+<style>
+  model-viewer {
+    width: 600px;
+    height: 400px;
+    --model-color: #800000;   /* force model color (blue here) */
+  }
+</style>
+
+<model-viewer src="/files/C_20036_V01_Driver_A_Compressed.glb" 
               alt="3D driver model" 
               camera-controls 
-              auto-rotate 
-              style="width: 600px; height: 400px;">
+              auto-rotate>
 </model-viewer>
-
