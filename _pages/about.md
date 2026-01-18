@@ -12,8 +12,8 @@ I am a Junior at Texas A&M University pursuing a BSc. in Mechanical Engineering 
 ---
 ## Research Interests
 * **Vehicle Dynamics:** Design of vehicle systems to optimize handling characeristics and ensure efficient movement.
-* **Additive Manufacturing:** Using topology to design efficient parts which cannot be manufactured through traditional methods.
-* **Control Theory:** Use of both passive and active feedback to model and control systems.
+* **Structures:** Developing methods to simulate and validate structural components.
+* **Robotics:** Usign robots to complete different tasks.
 
 ---
 ## Hobbies
