@@ -26,7 +26,7 @@ redirect_from:
 **Graduation:** Spring 2027
 
 **Relavant Coursework:**
-Calculus I, II, III; Differential Equations; Statics; Solid Mechanics; Materials and Manufacturing; Thermodynamics; Fluid Mechanics; Circuits
+Calculus I, II, III; Differential Equations; Linear Algebra; Statics; Dynamics and Vibrations; Solid Mechanics; Materials and Manufacturing; Thermodynamics; Heat Transfer; Numerial Methods; Fluid Mechanics
 
 ---
 
