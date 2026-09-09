@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior at Texas A&M University pursuing a BSc. in Mechanical Engineering with minors in Materials Science and Mathematics. My passion lies in robotics and vehicle dynamics. I have contributed to groundbreaking research in the mechanical design of space-rated robotic actuators. I am also an engineer on the formula electric racing team, where I am currently designing the chassis of the 2027 competition vehicle.
+I am a Senior at Texas A&M University pursuing a BSc. in Mechanical Engineering with a minor in Mathematics. My passion lies in robotics, aerospace structures, and semiconductor manufacturing. I have contributed to groundbreaking research in the mechanical design of space-rated robotic actuators as well as developed technology supporting semiconductor manufacturing. I am also an engineer on the Formula Electric racing team, where I am currently designing the chassis of the 2027 competition vehicle.
 
 ---
 ## Research Interests
