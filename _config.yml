@@ -22,7 +22,7 @@ repository               : "menezesmark/menezesmark.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/MarkM1.jpg"
+  avatar           : "MarkM1.jpg"
   name             : "Mark Menezes"
   pronouns         : # example: "she/her"  
   bio              : "Mechanical Engineering Student"
