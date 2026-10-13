@@ -10,7 +10,6 @@ redirect_from:
 I am a Senior at Texas A&M University pursuing a BSc. in Mechanical Engineering with a minor in Mathematics. My passion lies in robotics, aerospace structures, and semiconductor manufacturing. I have contributed to groundbreaking research in the mechanical design of space-rated robotic actuators as well as developed technology supporting semiconductor manufacturing. I am also an engineer on the Formula Electric racing team, where I am currently designing the chassis of the 2027 competition vehicle.
 
 Below, see a short portfolio of some of my work in more detail. Or feel free to check out some of the other tabs.
-(/files/Mark_Menezes_Portfolio.pdf)
 
 <object data="/files/Mark_Menezes_Portfolio.pdff" type="application/pdf" width="700px" height="700px">
     <embed src="/files/Mark_Menezes_Portfolio.pdf">
